@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/2308-divide-array-into-equal-pairs) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/harsh-srivastv/March-Leetcode-Challenge-2025/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
